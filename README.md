@@ -80,7 +80,7 @@ Replace the API key and CX ID with your actual credentials.
 The server provides the following tools:
 
 1. **googleSearchContent**: Performs a web search using the Google Custom Search API and returns structured results (titles, links, and snippets).
-2. **googleSearchImages**: (Stub) Intended for image search functionality.
+2. **googleSearchImages**: Performs an image search using the Google Custom Search API and returns a Markdown image link for the first result.
 
 Refer to the source code in `src/tools.ts` for detailed usage information.
 
