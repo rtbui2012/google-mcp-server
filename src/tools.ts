@@ -1,10 +1,7 @@
 /**
  * Tool definitions for the MCP Google Search Server
  *
- * googleSearchContent: Search Google for content (stub)
- * googleSearchImages: Search Google for images (stub)
  */
-
 import fetch from "node-fetch";
 
 export interface ToolInput {

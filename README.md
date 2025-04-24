@@ -59,7 +59,7 @@ To use this server as part of an MCP configuration, add an entry to your MCP set
 ```json
 {
   "mcpServers": {
-    "google-search": {
+    "google-api": {
       "command": "npx",
       "args": ["ts-node", "src/index.ts"],
       "env": {
